@@ -1,0 +1,6 @@
+docker start "id contenerdor base de datos"
+odoo_restart "Nombre del contenerdor"
+
+
+docker_login "id del contenedor en ejecucuion"
+ /etc/odoo/odoo.conf
