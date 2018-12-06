@@ -3,4 +3,6 @@ odoo_restart "Nombre del contenerdor"
 
 
 docker_login "id del contenedor en ejecucuion"
- /etc/odoo/odoo.conf
+ /etc/odoo/odoo.com
+
+Esto es una prueba,.
